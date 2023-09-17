@@ -1,7 +1,7 @@
--  Hi, I’m vamsi krishna.
--  I’m interested in Artificial Intelligence and Machine Learning, coding and programming in python, coding challenges,Web technologies,Tech updates.
--  I’m currently learning DSA and logical approaches and doing Competitive Programming.
--  I’m looking to collaborate with other Developers and  Developer Community having good feedback and high support for coders.
+-  Hi, I’m v Vamsi Krishna
+-  I’m interested in Artificial Intelligence and Machine Learning, coding and programming in Python, coding challenges, web technologies, and tech updates.
+-  I’m currently learning DSA.
+-  I’m looking to collaborate with other Developers and a Developer Community that has good feedback and high support for coders.
 -  Email: vkrishnaftug@gmail.com ||   LinkedIn : https://www.linkedin.com/in/vamsikrishna-kusetty-a8495b213/
    
 
