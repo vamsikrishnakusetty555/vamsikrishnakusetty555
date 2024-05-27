@@ -1,4 +1,4 @@
--  Hi, I’m v Vamsi Krishna
+-  Hi, I’m Vamsi Krishna
 -  I’m interested in Artificial Intelligence and Machine Learning, coding and programming in Python, coding challenges, web technologies, and tech updates.
 -  I’m currently learning DSA.
 -  I’m looking to collaborate with other Developers and a Developer Community that has good feedback and high support for coders.
